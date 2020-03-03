@@ -1,4 +1,4 @@
-![Government of Canada Logo](./img/sig-blk-en.svg)
+![Government of Canada Logo](./img/canada&#32;-&#32;ESDC&#32;-&#32;White&#32;banner.png)
 
 [Français](#Défis-cs-games)
 
@@ -81,25 +81,25 @@ Apprenez-en plus sur les personnes dynamiques qui travaillent à EDSC et résolv
 
 *(Psst ... même si vous ne résolvez pas les défis, nous aimerions quand même vous parler ...)
 
-## Lien Défis
+## Lien vers les Défis
 
-1. [Défis 1](#Défis-1)
-<!-- 2. [Défis 2](#Défis-2)
-3. [Défis 3](#Défis-3)
-4. [Défis 4](#Défis-4)
-5. [Défis 5](#Défis-5)
-6. [Défis 6](#Défis-6)
-7. [Défis 7](#Défis-7)
-8. [Défis 8](#Défis-8)
-9. [Défis 9](#Défis-9)
-10. [Défis 10](#Défis-10) -->
+1. [Défi 1](#Défis-1)
+<!-- 2. [Défi 2](#Défis-2)
+3. [Défi 3](#Défis-3)
+4. [Défi 4](#Défis-4)
+5. [Défi 5](#Défis-5)
+6. [Défi 6](#Défis-6)
+7. [Défi 7](#Défis-7)
+8. [Défi 8](#Défis-8)
+9. [Défi 9](#Défis-9)
+10. [Défi 10](#Défis-10) -->
 
 **Si vous n'avez jamais utilisé Git et Github auparavant:**
 
 1. Enregistrez un compte et connectez-vous
-2. Revenez à ce dépôt et appuyez sur "Fork" en haut de la page
+2. Revenez à ce dépôt et appuyez sur «Fork» en haut de la page
 3. Lorsqu'il vous demande où envoyer le dépôt, sélectionnez votre compte
-4. Sur la page de votre fork, appuyez sur "Cloner ou télécharger" et copiez l'url
+4. Sur la page de votre fork, appuyez sur «Cloner ou télécharger» et copiez l'url
 5. Sur votre système local, assurez-vous que Git est installé (Téléchargez et installez Git Bash pour Windows ou installez avec Homebrew sur MacOS)
 6. Dans un nouveau terminal sur votre système local (ouvrez une nouvelle fenêtre Git Bash sous Windows) créez un nouveau répertoire où vous voulez que votre code existe
 7. Avec votre terminal, entrez dans le répertoire que vous venez de créer
@@ -107,14 +107,14 @@ Apprenez-en plus sur les personnes dynamiques qui travaillent à EDSC et résolv
 9. Votre fork sera maintenant copié dans le répertoire de votre système
 10. En gardant la fenêtre Git Bash / terminal ouverte, ouvrez votre nouveau répertoire dans votre Environnement de développement intégré préféré
 11. À ce stade, vous pouvez commencer à créer de nouveaux fichiers, modifier les fichiers existants et git va retracer ces changements
-12. Pour enregistrer vos modifications dans Git et les envoyer à votre référentiel sur Github, nous commençons par "mettre en scène" nos modifications avant de "valider". Avec le staging, nous sélectionnons les fichiers dont nous voulons suivre les modifications dans notre prochain commit Git. Le commit est l'action dans laquelle nous enregistrons réellement les modifications apportées à l'historique Git de notre référentiel
+12. Pour enregistrer vos modifications dans Git et les envoyer à votre référentiel sur Github, nous commençons par «mettre en scène» nos modifications avant de «valider». Avec le staging, nous sélectionnons les fichiers dont nous voulons suivre les modifications dans notre prochain commit Git. Le commit est l'action dans laquelle nous enregistrons réellement les modifications apportées à l'historique Git de notre référentiel
 13. Pour effectuer vos modifications en une seule fois, dans votre fenêtre Git Bash / terminal, exécutez la commande ``git add --a``. Cela indiquera à Git de mettre en scène toutes les modifications de code depuis le dernier commit, dans le prochain commit
 14. Nous pouvons maintenant valider nos modifications en exécutant ``git commit -m 'Votre message de validation'``, où 'Votre message de validation' est le libellé que vous souhaitez avoir pour cette validation
 15. Une fois nos modifications validées, nous pouvons pousser ces modifications vers notre référentiel sur Github en exécutant ``git push``
 16. À ce stade, vous devez être invité à saisir votre nom d'utilisateur et votre mot de passe Github pour autoriser l'envoi au référentiel.
 17. En cas de succès, vous devriez maintenant voir vos modifications reflétées sur Github!
 
-## Défis 1
+## Défi 1
 
 ![Joel's ESDC Story](./img/CS_games_poster-exports_v6-03.png)
 
