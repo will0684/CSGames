@@ -75,7 +75,7 @@ The product of these numbers is 26 × 63 × 78 × 14 = 1788696.
 
 What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20×20 grid?
 
-# Défis CS Games
+# Défis Jeux CS
 
 Apprenez-en plus sur les personnes dynamiques qui travaillent à EDSC et résolvez leurs défis! Ensuite, apportez vos réponses au kiosque d'EDSC (ou créez une fork / branche de ce référentiel avec les solutions) pour avoir une conversation et explorer une opportunité d'être un élément central de la révolution de la fonction publique numérique qui se produit actuellement au gouvernement du Canada !
 
