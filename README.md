@@ -83,7 +83,7 @@ Apprenez-en plus sur les personnes dynamiques qui travaillent à EDSC et résolv
 
 ## Lien vers les Défis
 
-1. [Défi 1](#Défis-1)
+1. [Défi 1](#Défi-1)
 <!-- 2. [Défi 2](#Défis-2)
 3. [Défi 3](#Défis-3)
 4. [Défi 4](#Défis-4)
