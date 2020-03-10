@@ -180,7 +180,7 @@ Quel est le plus grand produit de quatre nombres adjacents dans la même directi
 
 Le nombre, 197, est appelé un nombre premier circulaire car toutes les rotations des chiffres: 197, 971 et 719 sont elles-mêmes premières.
 
-Il existe treize nombres premiers inférieurs à 100: 2, 3, 5, 7, 11, 13, 17, 31, 37, 71, 73, 79 et 97.
+Il existe treize de ces nombres premiers circulaires qui sont inférieurs à 100: 2, 3, 5, 7, 11, 13, 17, 31, 37, 71, 73, 79 et 97.
 
 Combien de nombres premiers circulaires y a-t-il en dessous d'un million?
 
