@@ -11,8 +11,8 @@ Learn about the dynamic individuals working at ESDC and solve their challenges! 
 ## Challenge Links
 
 - [Challenge 1](#challenge-1)
-<!-- - [Challenge 2](#challenge-2)
-- [Challenge 3](#challenge-3)
+- [Challenge 2](#challenge-2)
+<!-- - [Challenge 3](#challenge-3)
 - [Challenge 4](#challenge-4)
 - [Challenge 5](#challenge-5)
 - [Challenge 6](#challenge-6)
@@ -75,6 +75,16 @@ The product of these numbers is 26 × 63 × 78 × 14 = 1788696.
 
 What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20×20 grid?
 
+## Challenge 2
+
+![Guillame Charest's ESDC Story](./img/CS_games_poster-exports_v6-05.png)
+
+The number, 197, is called a circular prime because all rotations of the digits: 197, 971, and 719, are themselves prime.
+
+There are thirteen such primes below 100: 2, 3, 5, 7, 11, 13, 17, 31, 37, 71, 73, 79, and 97.
+
+How many circular primes are there below one million?
+
 # Défis Jeux CS
 
 Apprenez-en plus sur les personnes dynamiques qui travaillent à EDSC et résolvez leurs défis! Ensuite, apportez vos réponses au kiosque d'EDSC (ou créez une fork / branche de ce référentiel avec les solutions) pour avoir une conversation et explorer une opportunité d'être un élément central de la révolution de la fonction publique numérique qui se produit actuellement au gouvernement du Canada !
@@ -84,15 +94,15 @@ Apprenez-en plus sur les personnes dynamiques qui travaillent à EDSC et résolv
 ## Lien vers les Défis
 
 1. [Défi 1](#Défi-1)
-<!-- 2. [Défi 2](#Défis-2)
-3. [Défi 3](#Défis-3)
-4. [Défi 4](#Défis-4)
-5. [Défi 5](#Défis-5)
-6. [Défi 6](#Défis-6)
-7. [Défi 7](#Défis-7)
-8. [Défi 8](#Défis-8)
-9. [Défi 9](#Défis-9)
-10. [Défi 10](#Défis-10) -->
+2. [Défi 2](#Défi-2)
+<!-- 3. [Défi 3](#Défi-3)
+4. [Défi 4](#Défi-4)
+5. [Défi 5](#Défi-5)
+6. [Défi 6](#Défi-6)
+7. [Défi 7](#Défi-7)
+8. [Défi 8](#Défi-8)
+9. [Défi 9](#Défi-9)
+10. [Défi 10](#Défi-10) -->
 
 **Si vous n'avez jamais utilisé Git et Github auparavant:**
 
@@ -146,3 +156,13 @@ Dans la grille 20 × 20 ci-dessous, quatre nombres ont été mis en gras le long
 Le produit de ces nombres est 26 × 63 × 78 × 14 = 1788696.
 
 Quel est le plus grand produit de quatre nombres adjacents dans la même direction (haut, bas, gauche, droite ou diagonale) dans la grille 20 × 20?
+
+## Défi 2
+
+![Guillame Charest's ESDC Story](./img/CS_games_poster-exports_v6-07.png)
+
+Le nombre, 197, est appelé un nombre premier circulaire car toutes les rotations des chiffres: 197, 971 et 719 sont elles-mêmes premières.
+
+Il existe treize nombres premiers inférieurs à 100: 2, 3, 5, 7, 11, 13, 17, 31, 37, 71, 73, 79 et 97.
+
+Combien de nombres premiers circulaires y a-t-il en dessous d'un million?
