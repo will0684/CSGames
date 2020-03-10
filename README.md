@@ -8,12 +8,14 @@ Learn about the dynamic individuals working at ESDC and solve their challenges! 
 
 *(Psst...even if you don't solve the challenges, we would still love to talk to you...)
 
+**Note that our challenges won’t be worth any points in the Puzzle Hero competition, but they will give you the opportunity to be considered for a job within the Branch.
+
 ## Challenge Links
 
 - [Challenge 1](#challenge-1)
 - [Challenge 2](#challenge-2)
-<!-- - [Challenge 3](#challenge-3)
-- [Challenge 4](#challenge-4)
+<!-- - [Challenge 3](#challenge-3) -->
+<!-- - [Challenge 4](#challenge-4)
 - [Challenge 5](#challenge-5)
 - [Challenge 6](#challenge-6)
 - [Challenge 7](#challenge-7)
@@ -85,18 +87,33 @@ There are thirteen such primes below 100: 2, 3, 5, 7, 11, 13, 17, 31, 37, 71, 73
 
 How many circular primes are there below one million?
 
+<!-- ## Challenge 3
+
+![Susan Adamski's ESDC Story](./img/CS_games_poster-exports_v6-09.png)
+
+The prime 41, can be written as the sum of six consecutive primes:
+
+41 = 2 + 3 + 5 + 7 + 11 + 13
+This is the longest sum of consecutive primes that adds to a prime below one-hundred.
+
+The longest sum of consecutive primes below one-thousand that adds to a prime, contains 21 terms, and is equal to 953.
+
+Which prime, below one-million, can be written as the sum of the most consecutive primes? -->
+
 # Défis Jeux CS
 
 Apprenez-en plus sur les personnes dynamiques qui travaillent à EDSC et résolvez leurs défis! Ensuite, apportez vos réponses au kiosque d'EDSC (ou créez une fork / branche de ce référentiel avec les solutions) pour avoir une conversation et explorer une opportunité d'être un élément central de la révolution de la fonction publique numérique qui se produit actuellement au gouvernement du Canada !
 
 *(Psst ... même si vous ne résolvez pas les défis, nous aimerions quand même vous parler ...)
 
+**Notez que nos défis ne vaudront aucun point dans le concours Puzzle Hero, mais ils vous donneront l’occasion d'être pris en considération pour un emploi au sein de la Direction générale.
+
 ## Lien vers les Défis
 
 1. [Défi 1](#Défi-1)
 2. [Défi 2](#Défi-2)
-<!-- 3. [Défi 3](#Défi-3)
-4. [Défi 4](#Défi-4)
+<!-- 3. [Défi 3](#Défi-3) -->
+<!-- 4. [Défi 4](#Défi-4)
 5. [Défi 5](#Défi-5)
 6. [Défi 6](#Défi-6)
 7. [Défi 7](#Défi-7)
@@ -166,3 +183,16 @@ Le nombre, 197, est appelé un nombre premier circulaire car toutes les rotation
 Il existe treize nombres premiers inférieurs à 100: 2, 3, 5, 7, 11, 13, 17, 31, 37, 71, 73, 79 et 97.
 
 Combien de nombres premiers circulaires y a-t-il en dessous d'un million?
+
+<!-- ## Défi 3
+
+![Susan Adamski's ESDC Story](./img/CS_games_poster-exports_v6-11.png)
+
+Le nombre premier 41 peut être écrit comme la somme de six nombres premiers consécutifs:
+
+41 = 2 + 3 + 5 + 7 + 11 + 13
+Il s'agit de la plus longue somme de nombres premiers consécutifs qui s'ajoute à un nombre premier inférieur à cent.
+
+La plus longue somme de nombres premiers consécutifs inférieurs à mille, qui s'ajoute à un nombre premier, contient 21 termes et est égale à 953.
+
+Quel nombre premier, inférieur à un million, peut être écrit comme la somme des nombres premiers les plus consécutifs? -->
