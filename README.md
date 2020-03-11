@@ -15,8 +15,8 @@ Learn about the dynamic individuals working at ESDC and solve their challenges! 
 - [Challenge 1](#challenge-1)
 - [Challenge 2](#challenge-2)
 - [Challenge 3](#challenge-3)
-<!-- - [Challenge 4](#challenge-4)
-- [Challenge 5](#challenge-5)
+- [Challenge 4](#challenge-4)
+<!-- - [Challenge 5](#challenge-5)
 - [Challenge 6](#challenge-6)
 - [Challenge 7](#challenge-7)
 - [Challenge 8](#challenge-8)
@@ -100,6 +100,23 @@ The longest sum of consecutive primes below one-thousand that adds to a prime, c
 
 Which prime, below one-million, can be written as the sum of the most consecutive primes?
 
+## Challenge 4
+
+![Tafique Ali's ESDC Story](./img/CS_games_poster-exports_v6-13.png)
+
+A 4x4 grid is filled with digits d, 0 ≤ d ≤ 9.
+
+It can be seen that in the grid
+
+6 3 3 0  
+5 0 4 3  
+0 7 1 4  
+1 2 4 5  
+
+the sum of each row and each column has the value 12. Moreover the sum of each diagonal is also 12.
+
+In how many ways can you fill a 4x4 grid with the digits d, 0 ≤ d ≤ 9 so that each row, each column, and both diagonals have the same sum?
+
 # Défis Jeux CS
 
 Apprenez-en plus sur les personnes dynamiques qui travaillent à EDSC et résolvez leurs défis! Ensuite, apportez vos réponses au kiosque d'EDSC (ou créez une fork / branche de ce référentiel avec les solutions) pour avoir une conversation et explorer une opportunité d'être un élément central de la révolution de la fonction publique numérique qui se produit actuellement au gouvernement du Canada !
@@ -113,8 +130,8 @@ Apprenez-en plus sur les personnes dynamiques qui travaillent à EDSC et résolv
 1. [Défi 1](#Défi-1)
 2. [Défi 2](#Défi-2)
 3. [Défi 3](#Défi-3)
-<!-- 4. [Défi 4](#Défi-4)
-5. [Défi 5](#Défi-5)
+4. [Défi 4](#Défi-4)
+<!-- 5. [Défi 5](#Défi-5)
 6. [Défi 6](#Défi-6)
 7. [Défi 7](#Défi-7)
 8. [Défi 8](#Défi-8)
@@ -196,3 +213,20 @@ Il s'agit de la plus longue somme de nombres premiers consécutifs qui s'ajoute 
 La plus longue somme de nombres premiers consécutifs inférieurs à mille, qui s'ajoute à un nombre premier, contient 21 termes et est égale à 953.
 
 Quel nombre premier, inférieur à un million, peut être écrit comme la somme des nombres premiers les plus consécutifs?
+
+## Défi 4
+
+![Tafique Ali's ESDC Story](./img/CS_games_poster-exports_v6-15.png)
+
+Une grille 4x4 est remplie de chiffres d, 0 ≤ d ≤ 9.
+
+On peut voir que dans la grille que :
+
+6 3 3 0  
+5 0 4 3  
+0 7 1 4  
+1 2 4 5  
+
+la somme de chaque ligne et de chaque colonne a la valeur 12. De plus, la somme de chaque diagonale est également de 12.
+
+De combien de façons pouvez-vous remplir une grille 4x4 avec les chiffres d, 0 ≤ d ≤ 9 pour que chaque ligne, chaque colonne et les deux diagonales aient la même somme?
