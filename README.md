@@ -216,7 +216,7 @@ Quel nombre premier, inférieur à un million, peut être écrit comme la somme 
 
 ## Défi 4
 
-![Tafique Ali's ESDC Story](./img/CS_games_poster-exports_v6-15.png)
+![Tafique Ali's ESDC Story](./img/Asset&#32;1.png)
 
 Une grille 4x4 est remplie de chiffres d, 0 ≤ d ≤ 9.
 
