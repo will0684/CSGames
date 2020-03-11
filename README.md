@@ -14,7 +14,7 @@ Learn about the dynamic individuals working at ESDC and solve their challenges! 
 
 - [Challenge 1](#challenge-1)
 - [Challenge 2](#challenge-2)
-<!-- - [Challenge 3](#challenge-3) -->
+- [Challenge 3](#challenge-3)
 <!-- - [Challenge 4](#challenge-4)
 - [Challenge 5](#challenge-5)
 - [Challenge 6](#challenge-6)
@@ -87,7 +87,7 @@ There are thirteen such primes below 100: 2, 3, 5, 7, 11, 13, 17, 31, 37, 71, 73
 
 How many circular primes are there below one million?
 
-<!-- ## Challenge 3
+## Challenge 3
 
 ![Susan Adamski's ESDC Story](./img/CS_games_poster-exports_v6-09.png)
 
@@ -98,7 +98,7 @@ This is the longest sum of consecutive primes that adds to a prime below one-hun
 
 The longest sum of consecutive primes below one-thousand that adds to a prime, contains 21 terms, and is equal to 953.
 
-Which prime, below one-million, can be written as the sum of the most consecutive primes? -->
+Which prime, below one-million, can be written as the sum of the most consecutive primes?
 
 # Défis Jeux CS
 
@@ -112,7 +112,7 @@ Apprenez-en plus sur les personnes dynamiques qui travaillent à EDSC et résolv
 
 1. [Défi 1](#Défi-1)
 2. [Défi 2](#Défi-2)
-<!-- 3. [Défi 3](#Défi-3) -->
+3. [Défi 3](#Défi-3)
 <!-- 4. [Défi 4](#Défi-4)
 5. [Défi 5](#Défi-5)
 6. [Défi 6](#Défi-6)
@@ -184,7 +184,7 @@ Il existe treize de ces nombres premiers circulaires qui sont inférieurs à 100
 
 Combien de nombres premiers circulaires y a-t-il en dessous d'un million?
 
-<!-- ## Défi 3
+## Défi 3
 
 ![Susan Adamski's ESDC Story](./img/CS_games_poster-exports_v6-11.png)
 
@@ -195,4 +195,4 @@ Il s'agit de la plus longue somme de nombres premiers consécutifs qui s'ajoute 
 
 La plus longue somme de nombres premiers consécutifs inférieurs à mille, qui s'ajoute à un nombre premier, contient 21 termes et est égale à 953.
 
-Quel nombre premier, inférieur à un million, peut être écrit comme la somme des nombres premiers les plus consécutifs? -->
+Quel nombre premier, inférieur à un million, peut être écrit comme la somme des nombres premiers les plus consécutifs?
