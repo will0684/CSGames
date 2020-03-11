@@ -220,7 +220,7 @@ Quel nombre premier, inférieur à un million, peut être écrit comme la somme 
 
 Une grille 4x4 est remplie de chiffres d, 0 ≤ d ≤ 9.
 
-On peut voir que dans la grille que :
+On peut voir que dans la grille:
 
 6 3 3 0  
 5 0 4 3  
