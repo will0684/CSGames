@@ -16,8 +16,8 @@ Learn about the dynamic individuals working at ESDC and solve their challenges! 
 - [Challenge 2](#challenge-2)
 - [Challenge 3](#challenge-3)
 - [Challenge 4](#challenge-4)
-<!-- - [Challenge 5](#challenge-5)
-- [Challenge 6](#challenge-6)
+- [Challenge 5](#challenge-5)
+<!-- - [Challenge 6](#challenge-6)
 - [Challenge 7](#challenge-7)
 - [Challenge 8](#challenge-8)
 - [Challenge 9](#challenge-9)
@@ -117,6 +117,14 @@ the sum of each row and each column has the value 12. Moreover the sum of each d
 
 In how many ways can you fill a 4x4 grid with the digits d, 0 ≤ d ≤ 9 so that each row, each column, and both diagonals have the same sum?
 
+## Challenge 5
+
+![Brandon Le's ESDC Story](./img/CS_games_poster-exports_v6-17.png)
+
+It can be seen that the number, 125874, and its double, 251748, contain exactly the same digits, but in a different order.
+
+Find the smallest positive integer, x, such that 2x, 3x, 4x, 5x, and 6x, contain the same digits.
+
 # Défis Jeux CS
 
 Apprenez-en plus sur les personnes dynamiques qui travaillent à EDSC et résolvez leurs défis! Ensuite, apportez vos réponses au kiosque d'EDSC (ou créez une fork / branche de ce référentiel avec les solutions) pour avoir une conversation et explorer une opportunité d'être un élément central de la révolution de la fonction publique numérique qui se produit actuellement au gouvernement du Canada !
@@ -131,8 +139,8 @@ Apprenez-en plus sur les personnes dynamiques qui travaillent à EDSC et résolv
 2. [Défi 2](#Défi-2)
 3. [Défi 3](#Défi-3)
 4. [Défi 4](#Défi-4)
-<!-- 5. [Défi 5](#Défi-5)
-6. [Défi 6](#Défi-6)
+5. [Défi 5](#Défi-5)
+<!-- 6. [Défi 6](#Défi-6)
 7. [Défi 7](#Défi-7)
 8. [Défi 8](#Défi-8)
 9. [Défi 9](#Défi-9)
@@ -230,3 +238,11 @@ On peut voir que dans la grille:
 la somme de chaque ligne et de chaque colonne a la valeur 12. De plus, la somme de chaque diagonale est également de 12.
 
 De combien de façons pouvez-vous remplir une grille 4x4 avec les chiffres d, 0 ≤ d ≤ 9 pour que chaque ligne, chaque colonne et les deux diagonales aient la même somme?
+
+## Défi 5
+
+![Brandon Le's ESDC Story](./img/CS_games_poster-exports_v6-19.png)
+
+On peut voir que le nombre, 125874, et son double, 251748, contiennent exactement les mêmes chiffres, mais dans un ordre différent.
+
+Recherchez le plus petit entier positif, x, de telle façon que 2x, 3x, 4x, 5x et 6x, contiennent les mêmes chiffres.
